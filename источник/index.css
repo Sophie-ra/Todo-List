@@ -33,8 +33,9 @@
   border-radius: 4px 0 0 4px;
   border: 2px solid rgba(223, 81, 245, 0.539);
   outline: none;
-  background: transparent;
+  фон : прозрачный ;
 }
+
 
 .App button {
   padding: 16px 7px;
